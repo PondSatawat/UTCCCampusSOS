@@ -10,7 +10,7 @@ class AiScreen extends StatefulWidget {
 
 class _AiScreenState extends State<AiScreen> {
   // API Key จากเว็บ Google AI Studio
-  final String _apiKey = 'AIzaSyBXEPyN2Q2L5HNv_Wqq1Mmb-wmyFM5yJjk'; 
+  final String _apiKey = 'Your_KEY'; 
 
   final TextEditingController _textController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
